@@ -1,8 +1,8 @@
 ## Hi, I'm Eddie
 
-Surf's up! Exciting time to build.
+Surf's up! Exciting time to build. 
 
-## Current interests
+Current interests:
 
 ### Keeping up 
 - AlphaSignal, Latent Space, Unsupervised Learning, etc
